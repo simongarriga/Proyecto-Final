@@ -1,0 +1,101 @@
+[
+    {
+       "id":"1",
+       "nombre":"Torta de Coco",
+       "stock":"35",
+       "precio":"5.00",
+       "url":"torta-de-coco",
+       "img":"./Chloe-Fotos/Tartas/Coco.jpeg",
+       "fecha":"2021-06-17 15:56:23"
+    },
+    {
+       "id":"2",
+       "nombre":"Mini Cakes",
+       "stock":"45",
+       "precio":"4.50",
+       "url":"Mini Cakes",
+       "img":"./Chloe-Fotos/Mini cakes/23423841_1823096641051475_1541593855_o.jpg",
+       "fecha":"2021-08-11 16:25:33"
+    },
+    {
+       "id":"3",
+       "nombre":"Torta de Frutilla",
+       "stock":"36",
+       "precio":"2.50",
+       "url":"torta-de-frutilla",
+       "img":"./Chloe-Fotos/Finger food/Frutilla.jpeg",
+       "fecha":"2018-08-11 16:25:36"
+    },
+    {
+       "id":"4",
+       "nombre":"Huevo Relleno",
+       "stock":"60",
+       "precio":"1.50",
+       "url":"Huevo-Relleno",
+       "img":"./Chloe-Fotos/Pascua/Bon o bon.jpeg",
+       "fecha":"2018-08-11 16:25:39"
+    },
+    {
+       "id":"5",
+       "nombre":"Imperial",
+       "stock":"26",
+       "precio":"6.00",
+       "url":"Imperial",
+       "img":"./Chloe-Fotos/Tortas/Imperial.jpeg",
+       "fecha":"2019-06-17 15:58:43"
+    },
+    {
+       "id":"6",
+       "nombre":"Rogel",
+       "stock":"50",
+       "precio":"3.00",
+       "url":"Rogel",
+       "img":"./Chloe-Fotos/Tortas/Rogel.jpeg",
+       "fecha":"2018-08-11 16:25:45"
+    },
+    {
+       "id":"7",
+       "nombre":"Chocotorta",
+       "stock":"50",
+       "precio":"3.00",
+       "url":"chocotorta",
+       "img":"./Chloe-Fotos/Tortas heladas/28584394_1951344888226649_1038873945_o.jpg",
+       "fecha":"2018-08-11 16:25:45"
+    },
+    {
+       "id":"8",
+       "nombre":"Brownie",
+       "stock":"50",
+       "precio":"3.00",
+       "url":"brownie",
+       "img":"./Chloe-Fotos/Brownies/1.jpeg",
+       "fecha":"2018-08-11 16:25:45"
+    },
+    {
+       "id":"9",
+       "nombre":"mini cakes",
+       "stock":"50",
+       "precio":"3.00",
+       "url":"mini-cakes",
+       "img":"./Chloe-Fotos/Mini cakes/23423841_1823096641051475_1541593855_o.jpg",
+       "fecha":"2018-08-11 16:25:45"
+    },
+    {
+       "id":"10",
+       "nombre":"Bocaditos",
+       "stock":"50",
+       "precio":"3.00",
+       "url":"bocaditos",
+       "img":"./Chloe-Fotos/Finger food/WhatsApp Image 2019-01-25 at 01.27.18(1).jpeg",
+       "fecha":"2018-08-11 16:25:45"
+    },
+    {
+       "id":"11",
+       "nombre":"Huevos Rellenos",
+       "stock":"35",
+       "precio":"5.00",
+       "url":"huevos-rellenos",
+       "img":"./Chloe-Fotos/Pascua/Bon o bon.jpeg",
+       "fecha":"2019-06-17 15:56:23"
+    }
+ ]
